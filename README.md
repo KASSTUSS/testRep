@@ -1,4 +1,4 @@
 # Readme file.
 ## Some text
 
->text fix3
+Hello friend!
